@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/TruongDx2004/demo-ci-cd-github-actions/issues"
   },
-  "homepage": "https://github.com/TruongDx2004/demo-ci-cd-github-actions#readme"
+  "homepage": "https://github.com/TruongDx2004/demo-ci-cd-github-actions#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
